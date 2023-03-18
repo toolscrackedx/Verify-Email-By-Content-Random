@@ -30,4 +30,10 @@ Once the verification process is complete, check the output file to see which em
 
 Note: This tool is for educational purposes only and should not be used for any illegal or unethical activities.
 
+Others Tools
+
+[Tools Filter Email By Domain](https://www.content-random.com/p/tools-filter-email-by-domain.html)
+
+[Tool Extractor Email From Text & Remove Duplicates](https://www.content-random.com/p/tools-filter-email-by-domain.html)
+
 
