@@ -17,10 +17,15 @@ This project was inspired by this tutorial on verifying email addresses in Pytho
 creating by [Content Random](https://www.content-random.com/)
 
 Download the verify_email.py script and save it to your computer.
-Open a command prompt or terminal window and navigate to the directory where the verify_email.py file is located.
-Run the command python verify_email.py [input_file] [output_file], where [input_file] is the path to the file containing the email addresses to be verified and [output_file] is the path to the file where the results will be written.
-Wait for the verification process to complete. The tool will display a message for each email address indicating whether it is valid or invalid.
+
+1- Open a command prompt or terminal window and navigate to the directory where the verify_email.py file is located.
+
+2- Run the command python verify_email.py [input_file] [output_file], where [input_file] is the path to the file containing the email addresses to be verified and [output_file] is the path to the file where the results will be written.
+
+3- Wait for the verification process to complete. The tool will display a message for each email address indicating whether it is valid or invalid.
+
 Once the verification process is complete, check the output file to see which email addresses were verified successfully.
+
 Note: This tool is for educational purposes only and should not be used for any illegal or unethical activities.
 
 
