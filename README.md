@@ -4,7 +4,7 @@ This is a simple Python script that verifies the validity of a list of email add
 Getting Started
 To use this tool, you need to have Python 3.x installed on your system. You can download Python from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-Clone this repository to your local machine using git clone [https://github.com/yourusername/verify-email.git](https://github.com/toolscrackedx/Verify-Email-By-Content-Random.git)
+Clone this repository to your local machine using git clone [https://github.com/toolscrackedx/Verify-Email-By-Content-Random](https://github.com/toolscrackedx/Verify-Email-By-Content-Random.git)
 Navigate to the project directory using cd verify-email
 Create a file called emails.txt and add a list of email addresses you want to verify (one email per line)
 Run the script using the command python verify_email.py emails.txt verified_emails.txt, where emails.txt is the name of your input file and verified_emails.txt is the name of the output file where the verified emails will be written.
